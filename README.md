@@ -183,6 +183,5 @@ This repository is about the Zuul configuration for implementing API gateway for
 <li>For Example, to configure login service, change the zuul.routes.loginRailway.url to the ip address and the port in which that service is running</li>
 
 <h2>Demo</h2>
-<li>To configure the bookAndSearch</li>
-<p>zuul.routes.railwayRegistration.url=<b>http://10.177.68.53:8081/</b><p>
+<li>To configure the bookAndSearch, zuul.routes.railwayRegistration.url=<b>http://10.177.68.53:8081/</b></li>
 <li>Change the blue part to the ip address and port in which the service is running</li>
