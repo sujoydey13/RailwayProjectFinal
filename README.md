@@ -201,6 +201,7 @@ This repository is about the Zuul configuration for implementing API gateway for
 <li>for backend Login Microservice repository go to: https://github.com/GamerbutCoder/RailwayLogin</li>
 <li>for Register Microservice repository go to: https://github.com/GamerbutCoder/RailwayRegistration</li>
 <li>for SearchAPI Microservice repository go to: https://github.com/GamerbutCoder/railwaySearchAPI</li>
+<li>for AdminLoginAPI Microservice repository go to: https://github.com/noyal727/adminlogin</li>
 
 
 <h2>Requirments: </h2>
