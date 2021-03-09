@@ -1,10 +1,9 @@
+# Project Title: Railway Reservation System
+
+
 # RailwayLogin
 Login Microservice
-
  
-
-# Project Title: Railway Reservation System - RailwayLogin
-
  
 
 
@@ -80,16 +79,13 @@ List of microservices:
 <li>Start all the services in requirements</li>
 <li>Run the main method</li>
 
+
+
 # railwaySearchAPI
 
  
 
 Railway search API
-
- 
-
-# Project Title: Railway Reservation System - RailwaySearch
-
  
 
 
@@ -124,7 +120,10 @@ List of microservices:
 <li>Start all the required services</li>
 <li>Run the main method</li>
 
-# Project Title: Railway Reservation System - RailwayRegistration
+
+
+
+# RailwayRegistration API
 
  
 
