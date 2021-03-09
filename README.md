@@ -162,7 +162,7 @@ List of microservices:
 
 
 
-# Project Title: Railway Reservation System - ZuulApp
+# ZuulApp - The API Gateway
 This repository is about the Zuul configuration for implementing API gateway for the project.<br>
 <li>for backend Booking and Searching Microservice repository go to: https://github.com/GamerbutCoder/RailwayBookingandSearching</li>
 <li>for backend Login Microservice repository go to: https://github.com/GamerbutCoder/RailwayLogin</li>
